@@ -34,7 +34,7 @@ export const CreatorsProvider: FC<CreatorsProviderProps> = ({ children }) => {
         provider
       );
     }
-    return null;
+    return null;  
   }, [wallet]);
 
   const fetchCreators = useCallback(async () => {

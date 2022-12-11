@@ -9,8 +9,8 @@ const Navbar = () => {
 
   return (
     <div className="navbar z-10 h-16 bg-primary text-primary-content">
-      <div className="flex-1">
-        <Link href="/">NFT Club</Link>
+      <div className="flex-1 1">
+        <Link href="/">SOLANA Patreon</Link>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal h-16 p-0">

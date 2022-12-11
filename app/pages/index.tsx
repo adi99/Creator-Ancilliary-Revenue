@@ -26,9 +26,9 @@ const Home: NextPage = () => {
               <br />
               to{' '}
               <span className="text-primary">
-                NFT
+                SOLANA
                 <br />
-                Club
+                Patreon
               </span>
             </h1>
           </div>

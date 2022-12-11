@@ -1,5 +1,5 @@
 {
-  "name": "nft-club-client",
+  "name": "solana-patreon",
   "private": true,
   "scripts": {
     "dev": "next dev",
