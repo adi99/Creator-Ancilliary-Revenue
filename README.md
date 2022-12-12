@@ -16,7 +16,7 @@ Lastly, Subscriptions are the vehicle through which users support Creators, gain
 
 ## ▶️ Demo
 
-[![Solana Patreon Demo]()](https://www.loom.com/share/c9892eb6b47042f0b759df314083c05d 'Solana Patreon')
+[![Solana Patreon Demo]()]( 'Solana Patreon')
 
 ## 🧠 Challenges/Learnings
 
