@@ -1,7 +1,8 @@
 # Solana Patreon
 
 ## 💡 Inspiration
-NFT creator have as only option to generate revenue in long term. They need additional revenue option for making money. This is a patreon like site on solana where Fans can subscribe and donate SOL to their favourite NFT creator. 
+NFT creator have as only option to generate revenue in long term. They need additional revenue option for making money. This is a patreon like site on solana where Fans can subscribe and donate SOL to their favourite NFT creator.
+Creators can easily implement flexible digital services, from subscriptions to micropayments to virtual goods.
 
 
 ## 💻 What It Does
@@ -35,7 +36,8 @@ Lastly, Subscriptions are the vehicle through which users support Creators, gain
 
 ## 🚀 What's Next for Solana Patreon
 
-- Adding a gatekeeper for additional security
+- Fundraising platform similar to Kickstarter for future NFT projects
+- Adding Job portal similar to Gitcoin/fiverr where organizations can post requirement and NFT creator can bid 
 - Creating a more seamless UI and experience
 
 ## 🏃️ Installing and Running Locally
