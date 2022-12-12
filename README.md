@@ -1,7 +1,7 @@
 # Solana Patreon
 
 ## 💡 Inspiration
-
+NFT creator have as only option to generate revenue in long term. They need additional revenue option for making money. This is a patreon like site on solana where Fans can subscribe and donate SOL to their favourite NFT creator. 
 
 
 ## 💻 What It Does
