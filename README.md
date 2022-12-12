@@ -1,4 +1,4 @@
-# NFT Club
+# Solana Patreon
 
 ## 💡 Inspiration
 
