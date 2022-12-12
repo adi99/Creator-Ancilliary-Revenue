@@ -16,7 +16,7 @@ Lastly, Subscriptions are the vehicle through which users support Creators, gain
 
 ## ▶️ Demo
 
-[![NFT Club Demo](https://i.imgur.com/cKjPR10.jpg)](https://www.loom.com/share/c9892eb6b47042f0b759df314083c05d 'NFT Club Demo')
+[![Solana Patreon Demo]()](https://www.loom.com/share/c9892eb6b47042f0b759df314083c05d 'Solana Patreon')
 
 ## 🧠 Challenges/Learnings
 
