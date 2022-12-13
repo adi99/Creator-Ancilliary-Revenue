@@ -17,7 +17,7 @@ Lastly, Subscriptions are the vehicle through which users support Creators, gain
 
 ## ▶️ Demo
 
-[![Solana Patreon Demo](https://github.com/adi99/Creator-Ancilliary-Revenue/blob/main/app/styles/Solana_Patreon.jpg)]( 'Solana Patreon')
+[![Solana Patreon Demo](https://github.com/adi99/Creator-Ancilliary-Revenue/blob/main/app/styles/Solana_Patreon.jpg)](https://www.youtube.com/watch?v=rQKc-Cfcr-s 'Solana Patreon')
 
 ## 🧠 Challenges/Learnings
 
