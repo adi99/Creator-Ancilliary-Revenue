@@ -108,26 +108,19 @@ const CreatorLandingPage = () => {
       </div>
 
       <div className="flex w-1/3 flex-col items-center">
-        {benefitAccounts.map((benefit, i) => {
-          return (
-            <div
-              key={i + 1}
-              className="card card-bordered my-4 w-full border-slate-300 p-4 drop-shadow-lg"
+            <div className="card card-bordered my-4 w-full border-slate-300 p-4 drop-shadow-lg"
             >
               <div className="col flex flex-col items-start">
-                <p className="prose font-semibold">{benefit.name}</p>
-                <p className="prose">{benefit.description}</p>
-                {hasAccess && (
-                  <a href={benefit.accessLink} className="mt-4 w-full">
+                <p className="prose font-semibold">NFT Royalty</p>
+                <p className="prose">You can access all your royalty </p>
+                  <a href= "https://www.adicia.co/" className="mt-4 w-full">
                     <button className="btn btn-primary btn-sm btn-block">
                       Go to Benefit
                     </button>
                   </a>
-                )}
+                
               </div>
             </div>
-          );
-        })}
       </div>
     </div>
   );
