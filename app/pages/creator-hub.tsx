@@ -365,7 +365,7 @@ const CreatorHub = () => {
               <p
                 className="cursor-pointer"
                 onClick={() =>
-                  router.push(`/creator-landing-page/${creatorAccountPDA}`)
+                  router.push(`/creator-landing-page`)
                 }
               >
                 View Landing Page {`\u2794`}
