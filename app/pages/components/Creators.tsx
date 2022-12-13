@@ -47,7 +47,7 @@ const Creators: FC<CreatorsType> = ({
               className="card h-max cursor-pointer bg-base-100 drop-shadow-xl hover:drop-shadow-xl-primary"
               key={key}
               onClick={() => {
-                router.push(`/creator-landing-page/${creatorPubKey}`);
+                router.push(`/creator-landing-page`);
               }}
             >
               <figure>
